@@ -1,37 +1,22 @@
-## Welcome to GitHub Pages
+## Bittiger,太ge，九zhang算法，laioffer視頻資料分享： 
 
-You can use the [editor on GitHub](https://github.com/zengtian008/zengtian008.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
+*微信：hkinsuranceagent*
 ```markdown
-Syntax highlighted code block
+#### 九章算法：
+1.九章系统设计；
+2.九章算法基础班；
+3.九章算法强化班；
+4.九章最新大数据教程；
+5.九章Python
+6.九章Java
 
-# Header 1
-## Header 2
-### Header 3
+#### Bittiger 太阁
+1.CS 503全栈工程师
+2.CS 504后端工程师 
+3.CS205 uber 
+4.CS209 搜索广告平台 
+5.CS208电商平台 
+6.Top 100算法解题班 
 
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
+来offer软件工程师旗舰课程
 ```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/zengtian008/zengtian008.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
