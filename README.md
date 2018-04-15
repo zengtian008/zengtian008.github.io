@@ -1,16 +1,16 @@
 ## Bittiger,太ge，九zhang算法，laioffer視頻資料分享： 
 
-*微信：hkinsuranceagent*
+***微信：hkinsuranceagent***
 ```markdown
-#### 九章算法：
-1.九章系统设计；
-2.九章算法基础班；
-3.九章算法强化班；
-4.九章最新大数据教程；
+# 九章算法：
+1.九章系统设计
+2.九章算法基础班
+3.九章算法强化班
+4.九章最新大数据教程
 5.九章Python
 6.九章Java
 
-#### Bittiger 太阁
+# Bittiger 太阁
 1.CS 503全栈工程师
 2.CS 504后端工程师 
 3.CS205 uber 
@@ -20,3 +20,4 @@
 
 来offer软件工程师旗舰课程
 ```
+***微信：hkinsuranceagent***
