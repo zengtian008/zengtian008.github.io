@@ -21,4 +21,4 @@
 来offer软件工程师旗舰课程
 ```
 ***微信：hkinsuranceagent***
-<img src = "https://zengtian008.github.io/IMG_1911.jpg" height = 300>
+![Image of Yaktocat](https://zengtian008.github.io/IMG_1911.jpg =250x)
