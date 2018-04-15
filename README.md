@@ -21,4 +21,4 @@
 来offer软件工程师旗舰课程
 ```
 ***微信：hkinsuranceagent***
-![Octocat](https://raw.githubusercontent.com/zengtian008/zengtian008.github.io/master/IMG_1911.jpg)
+![Octocat](https://zengtian008.github.io/IMG_1911.jpg)
