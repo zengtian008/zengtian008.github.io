@@ -22,4 +22,4 @@
 ```
 ***微信：hkinsuranceagent***
 
-![](https://zengtian008.github.io/IMG_1911.jpg | width=300)
+![Octocat](https://zengtian008.github.io/IMG_1911.jpg)
